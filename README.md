@@ -1,8 +1,8 @@
 # 💫 About Me:
 I’m currently Studing 3rd year in RMK College Of Engineering And Technology<br><br> I’m currently learning React,ReactNative<br><br> How to reach me gcsanthosh200@gmail.com
+<img align="right" alt="Coding" width="400"
 
-
-src="https://cdn.dribbble.com/users/116207...")
+src="https://cdn.dribbble.com/users/116207...">
 
 
 # 💻 Tech Stack:
