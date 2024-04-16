@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m currently Studing 3rd year in RMK College Of Engineering And Technology<br><br> I’m currently learning React,ReactNative<br><br> How to reach me gcsanthosh200@gmail.com
 
-![HTML5](https://github.com/Potential17/Potential17) ! 
+![HTML5](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif) ! 
 
 
 # 💻 Tech Stack:
