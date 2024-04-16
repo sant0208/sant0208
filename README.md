@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m currently Studing 3rd year in RMK College Of Engineering And Technology<br><br> I’m currently learning React,ReactNative<br><br> How to reach me gcsanthosh200@gmail.com
 
-![HTML5](https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif&tbnid=gjV-fY87U3IhAM&vet=1&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&w=1920&h=1080&hl=en-IN&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=ff6024a7301dae0b&shem=abme%2Ctrie) ! 
+![HTML5](https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FPotential17%2FPotential17%2Fmaster%2Fuser%2520(2).gif&tbnid=LOz2HHLgKx2CDM&vet=1&imgrefurl=https%3A%2F%2Fgithub.com%2FPotential17%2FPotential17&docid=R4QiMvaL6hd4KM&w=800&h=474&hl=en-IN&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=35c704935115955e&shem=abme%2Ctrie) ! 
 
 
 # 💻 Tech Stack:
