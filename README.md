@@ -14,3 +14,10 @@ Pre-final Year Student
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sant0208&label=Profile%20views&color=0e75b6&style=flat" alt="sant0208" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sant0208&show_icons=true&locale=en&layout=compact" alt="sant0208" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sant0208&show_icons=true&locale=en" alt="sant0208" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sant0208&" alt="sant0208" /></p>
